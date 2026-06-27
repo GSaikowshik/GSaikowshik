@@ -3,7 +3,11 @@
 
   # Hello World! I'm Gandikota Sai Kowshik 👋
   
-  ### 🚀 Computer Science Student & Full-Stack AI Developer
+  ### 🚀 Full-Stack AI Developer & CS Student
+  
+  **🤖 AI Enthusiast • 🧩 Problem Solver • ⚡ Quick Learner • 👥 Team Player**
+  
+  *"Building AI Products That Solve Real Problems"*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gsaikowshik)
   <!-- NOTE: If your LinkedIn username is different, please replace 'gsaikowshik' in the URL above with your actual username -->

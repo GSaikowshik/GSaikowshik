@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github_profile_banner.png?v=1" alt="G. Sai Kowshik Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/GSaikowshik/GSaikowshik/main/github_profile_banner.png" alt="G. Sai Kowshik Banner" width="100%">
 
   # Hello World! I'm Gandikota Sai Kowshik 👋
   

@@ -1,88 +1,71 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GSaikowshik/GSaikowshik/main/github_profile_banner.png" alt="G. Sai Kowshik Banner" width="100%">
-
-  # Hello World! I'm Gandikota Sai Kowshik 👋
-  
-  ### 🚀 Full-Stack AI Developer & CS Student
-  
-  **🤖 AI Enthusiast • 🧩 Problem Solver • ⚡ Quick Learner • 👥 Team Player**
-  
-  *"Building AI Products That Solve Real Problems"*
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gsaikowshik)
-  <!-- NOTE: If your LinkedIn username is different, please replace 'gsaikowshik' in the URL above with your actual username -->
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikowshikgandikota@gmail.com)
+  <img src="github_profile_banner.png" alt="Gandikota Sai Kowshik - Full-Stack AI Developer" width="100%">
 </div>
 
----
-
-## 👨‍💻 About Me
-I operate at the intersection of **Web Development** and **Artificial Intelligence**, combining strong academic foundations with hands-on experience. I actively employ AI-augmented engineering practices to accelerate development, optimize workflows, and tackle complex logical challenges.
-
-🎓 **Education:** Pursuing B.Tech in Computer Science at **Vishnu Institute of Technology**, Bhimavaram (2023 - 2027).
+<p align="center">
+  Driven Computer Science student (B.Tech 2023-2027) and Full-Stack AI Developer operating at the intersection of web development and AI. I actively employ AI-augmented engineering practices—directing LLMs to accelerate development—turning innovative ideas into scalable, user-centric functional realities.
+</p>
 
 ---
 
-## 💼 Recent Experience
-* 🚀 **AI Web Developer Intern** @ *InAmigos Foundation*
-* ☁️ **AWS GEN AI Intern** @ *AWS Academy & Edunet Foundation*
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+<br>
+
+### Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<br>
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<br>
+
+### AI/ML
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-008080?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Featured Projects
 
-### 💻 Languages & Environments
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-### 🧠 AI / Machine Learning
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%2F_Vector_DB-008080?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat-square)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF0000?style=flat-square&logo=yolo&logoColor=white)
-
-### 💾 Databases & Backend Services
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Key Projects
-
-| Project | Description | Tech Stack | Status / Highlight |
+| Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **💡 DayZero AI** | Startup idea validation platform providing AI-driven market analysis. | React, FastAPI, Supabase, OpenAI API | *In Development* |
-| **♻️ Waste Vision** | AI system for automated waste classification using deep learning. | Python, YOLOv8, Streamlit | *Deployed / Active* |
-| **📄 INSTA REPO** | AI-powered builder that creates instant resumes and developer portfolios. | Python, Streamlit, Gemini API | *Live* |
+| **DayZero AI** | A startup idea validation platform featuring AI-driven market analysis to help founders pivot quickly. | React, FastAPI, Supabase | [Demo](https://dayzeroai.vercel.app/) |
+| **Waste Vision** | An AI system for waste classification using YOLOv8 and Deep Learning for real-time inference. | Python, YOLOv8, Streamlit | [Demo](https://waste-vision.streamlit.app/) |
+| **INSTA REPO** | An AI-powered builder for instant resumes and portfolios. | Python, Streamlit, Gemini API | [Demo](https://insta-repo.streamlit.app/) |
 
 ---
 
-## 📊 GitHub Analytics
+## 💼 Experience & Hackathons
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GSaikowshik&show_icons=true&theme=tokyonight&count_private=true" alt="GSaikowshik GitHub Stats" height="190">&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSaikowshik&layout=compact&theme=tokyonight" alt="GSaikowshik Top Languages" height="190">
-</div>
+* 🚀 **AI Web Developer Intern** @ InAmigos Foundation *(Jun 2026)*
+* ☁️ **AWS GEN AI Intern** @ AWS Academy & Edunet Foundation *(Jun 2026)*
+* 🌐 **AI & Cloud Intern** @ IBM Skillsbuild & Edunet Foundation *(Sep - Oct 2025)*
+* 🏆 **Smart India Hackathon 2025** — Developed **'JALSURKASH'** to report and track water-borne disease symptoms.
 
 ---
 
-<div align="center">
-  <h3>Let's Connect & Collaborate!</h3>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gsaikowshik)
-  &nbsp;&nbsp;
-  [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-red?style=for-the-badge&logo=gmail)](mailto:saikowshikgandikota@gmail.com)
-</div>
+## 📜 Certifications
+
+* 🎓 [Machine Learning Foundations, AWS Academy](https://www.credly.com/badges/2dc671d0-0cd1-4809-8c7c-b6a2b3eff12a/public_url#)
+* 🎓 [Generative AI Foundations, AWS Academy](https://www.credly.com/badges/a7b59eeb-ae44-4730-8d86-7319399f45dd/public_url#)
+* 🎓 [Machine Learning for Natural Language Processing, AWS Academy](https://www.credly.com/badges/64189e5c-0f33-4692-842f-86186a886e32/public_url#)
+* 🎓 [Fundamentals of Deep learning, NVIDIA](https://learn.nvidia.com/certificates?id=32UugyC1RWmpWbFuwQItTA#)
+* 🎓 [Generative AI in Action, IBM](https://www.credly.com/badges/977c66a7-9b2f-4a9b-a0de-7383b322a0cc/public_url)
+* 🎓 [AI Fundamentals, IBM](https://www.credly.com/badges/f47f0d95-bd22-49a5-9074-38845e2b9e26/public_url)
+* 🎓 [Python for Beginners, Microsoft](https://learn.microsoft.com/api/achievements/share/en-us/GANDIKOTASAIKOWSHIK/VD6FVA6M?sharingId=A25E27422C264A78)
+* 🎓 [Web Developments Fundamentals, IBM](https://www.credly.com/badges/108d2033-ef5c-4e74-bbba-ecc34feab92f/public_url)

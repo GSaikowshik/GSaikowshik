@@ -20,11 +20,11 @@ Building intelligent web applications with AI, Python, FastAPI and React.
   <a href="mailto:saikowshikgandikota@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/gandikotasaikowshik">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/GSaikowshik">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>

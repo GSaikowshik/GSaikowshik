@@ -109,11 +109,7 @@ Building intelligent web applications with AI, Python, FastAPI and React.
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GSaikowshik&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSaikowshik&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Top Languages" height="195" />
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=GSaikowshik&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSaikowshik&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Top Languages" height="195" /></p>
 
 ---
 

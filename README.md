@@ -18,15 +18,15 @@ Building intelligent web applications with AI, Python, FastAPI and React.
 
 <p align="center">
   <a href="mailto:saikowshikgandikota@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-saikowshikgandikota%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/gandikotasaikowshik">
-    <img src="https://img.shields.io/badge/LinkedIn-gandikotasaikowshik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/GSaikowshik">
-    <img src="https://img.shields.io/badge/GitHub-GSaikowshik-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
 </p>
 

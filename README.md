@@ -1,213 +1,153 @@
-<h1 align="center">Hi 👋, I'm Gandikota Sai Kowshik</h1>
+# Hi, I'm Gandikota Sai Kowshik 👋
 
-<h3 align="center">
-Full-Stack AI Developer • Computer Science Student • AI Enthusiast
-</h3>
+<h3 align="center">Full-Stack AI Developer | Computer Science Student</h3>
 
 <p align="center">
-Building intelligent web applications with Python, FastAPI and React.
+Building intelligent web applications with AI, Python, FastAPI and React.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+AI+Developer;Building+AI-Powered+Applications;Python+•+FastAPI+•+React;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Developer;Computer+Science+Student;Python+%7C+FastAPI+%7C+React;Building+AI-Powered+Applications" />
 </p>
 
----
-
-# 🚀 About Me
-
-- 🎓 B.Tech Computer Science (2023–2027)
-- 🤖 Passionate about Artificial Intelligence & Full-Stack Development
-- 💻 Building scalable AI-powered applications
-- 🌱 Currently learning advanced backend engineering and Agentic AI
-- 🚀 Love transforming ideas into real-world products
-- 📫 Reach me: **saikowshikgandikota@gmail.com**
+> Driven Computer Science student (B.Tech 2023-2027) operating at the intersection of web development and AI. I actively employ AI-augmented engineering practices—directing LLMs to accelerate development—turning innovative ideas into scalable, user-centric functional realities.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="mailto:saikowshikgandikota@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/gandikotasaikowshik">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/GSaikowshik">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack & Skills
 
-## Languages
+## 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css"/>
 </p>
 
-## Frameworks
+## ⚙️ Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,fastapi"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-## Database
+## 💾 Databases & Cloud Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
 </p>
 
-## Tools
+## 🧠 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
-
----
-
-# 🤖 AI & Technologies
-
-<p>
-
-🧠 Artificial Intelligence
-
-✨ Generative AI
-
-🤖 Large Language Models (LLMs)
-
-💬 Prompt Engineering
-
-🔍 AI Automation
-
-⚡ FastAPI
-
-📈 Machine Learning
-
-</p>
+- Generative AI
+- RAG
+- LLMs
+- YOLOv8
 
 ---
 
 # 🚀 Featured Projects
 
-## 💡 DayZero AI
+### 💡 DayZero AI
+A startup idea validation platform featuring AI-driven market analysis to help founders pivot quickly.
 
-AI-powered startup idea validation platform helping founders validate ideas using market intelligence.
+**Tech Stack:** React • FastAPI • Supabase
 
-**Tech Stack**
-
-React • FastAPI • Supabase
-
-🔗 Live Demo:
-https://dayzeroai.vercel.app/
+🔗 https://dayzeroai.vercel.app/
 
 ---
 
-## ♻ Waste Vision
+### ♻️ Waste Vision
+An AI system for waste classification using YOLOv8 and Deep Learning for real-time inference.
 
-Deep Learning based waste classification system for real-time prediction.
+**Tech Stack:** Python • YOLOv8 • Streamlit
 
-**Tech Stack**
-
-Python • Streamlit
+🔗 https://waste-vision.streamlit.app/
 
 ---
 
-## 📄 INSTA REPO
+### 📄 INSTA REPO
+An AI-powered builder for instant resumes and portfolios.
 
-Generate beautiful resumes and portfolios instantly using AI.
+**Tech Stack:** Python • Streamlit • Gemini API
 
-**Tech Stack**
+🔗 https://insta-repo.streamlit.app/
 
-Python • Streamlit • Gemini API
+---
+
+# 💼 Experience, Leadership & Hackathons
+
+## 🏢 Professional Experience
+
+- 🚀 AI Web Developer Intern — InAmigos Foundation *(Jun 2026)*
+- ☁️ AWS GEN AI Intern — AWS Academy & Edunet Foundation *(Jun 2026)*
+- 🌱 Green Skills and AI Intern — Shell & Edunet Foundation *(Oct - Nov 2025)*
+- 🌐 AI & Cloud Intern — IBM Skillsbuild & Edunet Foundation *(Sep - Oct 2025)*
+- 🧠 AI-ML Intern — Google & EduSkills Academy *(Jul - Sep 2025)*
+- 💻 Web Development Intern — EduSkills Academy *(Jan - Mar 2025)*
+
+## 📣 Leadership & Ambassadorship
+
+- 🎓 Campus Ambassador — Unstop *(Sep 2025 - Present)*
+- 📈 Student Ambassador — LetsUpgrade *(Aug - Sep 2025)*
+
+## 🏆 Hackathons & Contests
+
+- 💧 Smart India Hackathon 2025 — Developed **JALSURKASH**, an AI/Web tracking application to report and track water-borne disease symptoms.
+- 🛡️ Adobe India Hackathon — Successfully cleared the competitive initial MCQ and coding rounds.
+- 💻 Shaastra Programming Contest 2025 — Recognized for active participation and algorithmic problem-solving.
+
+---
+
+# 📜 Certifications
+
+- 🏅 [Machine Learning Foundations — AWS Academy](https://www.credly.com/badges/2dc671d0-0cd1-4809-8c7c-b6a2b3eff12a/public_url#)
+- 🏅 [Generative AI Foundations — AWS Academy](https://www.credly.com/badges/a7b59eeb-ae44-4730-8d86-7319399f45dd/public_url#)
+- 🏅 [Machine Learning for NLP — AWS Academy](https://www.credly.com/badges/64189e5c-0f33-4692-842f-86186a886e32/public_url#)
+- 🏅 [Fundamentals of Deep Learning — NVIDIA](https://learn.nvidia.com/certificates?id=32UugyC1RWmpWbFuwQItTA#)
+- 🏅 [Generative AI in Action — IBM](https://www.credly.com/badges/977c66a7-9b2f-4a9b-a0de-7383b322a0cc/public_url)
+- 🏅 [AI Fundamentals — IBM](https://www.credly.com/badges/f47f0d95-bd22-49a5-9074-38845e2b9e26/public_url)
+- 🏅 [Python for Beginners — Microsoft](https://learn.microsoft.com/api/achievements/share/en-us/GANDIKOTASAIKOWSHIK/VD6FVA6M?sharingId=A25E27422C264A78)
+- 🏅 [Web Developments Fundamentals — IBM](https://www.credly.com/badges/108d2033-ef5c-4e74-bbba-ecc34feab92f/public_url)
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GSaikowshik&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSaikowshik&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=GSaikowshik&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=GSaikowshik&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
-# 📈 Contribution Graph
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSaikowshik&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GSaikowshik&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GSaikowshik&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Backend System Design
-- AI Agents
-- Docker
-- Kubernetes
-- CI/CD
-- Open Source Contribution
-
----
-
-# 💼 Experience
-
-- 🚀 AI Web Developer Intern
-- 🤖 AI & Cloud Intern
-- 🌱 AI-ML Intern
-- 💻 Web Development Intern
-
----
-
-# ⚡ Fun Fact
-
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
-
-> *"Turning ideas into intelligent products through code and AI."*
-
----
-
-<p align="center">
-
-Thanks for visiting! ⭐
-
-If you like my work, consider following me.
-
+⭐ Thanks for visiting my profile! ⭐
 </p>

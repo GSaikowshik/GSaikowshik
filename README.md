@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="github_profile_banner.png" alt="Gandikota Sai Kowshik - Full-Stack AI Developer" width="100%">
-</div>
+# Hi, I'm Gandikota Sai Kowshik 👋
 
-<p align="center">
-  <strong>Driven Computer Science student (B.Tech 2023-2027) and Full-Stack AI Developer operating at the intersection of web development and AI. I actively employ AI-augmented engineering practices—directing LLMs to accelerate development—turning innovative ideas into scalable, user-centric functional realities.</strong>
-</p>
+### Full-Stack AI Developer | Computer Science Student
+
+> Driven Computer Science student (B.Tech 2023-2027) operating at the intersection of web development and AI. I actively employ AI-augmented engineering practices—directing LLMs to accelerate development—turning innovative ideas into scalable, user-centric functional realities.
 
 ---
 
@@ -12,6 +10,7 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5/CSS3](https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -52,10 +51,10 @@
 ## 💼 Experience, Leadership & Hackathons
 
 ### 🏢 Professional Experience
-* 🚀 **AI Web Developer Intern** @ InAmigos Foundation *(Jun 2026 - Jun 2026)*
-* ☁️ **AWS GEN AI Intern** @ AWS Academy & Edunet Foundation *(Jun 2026 - Jun 2026)*
-* 🌱 **Green Skills and AI Intern** @ Shell & Edunet Foundation *(Oct 2025 - Nov 2025)*
-* 🌐 **AI & Cloud Intern** @ IBM Skillsbuild & Edunet Foundation *(Sep 2025 - Oct 2025)*
+* 🚀 **AI Web Developer Intern** @ InAmigos Foundation *(Jun 2026)*
+* ☁️ **AWS GEN AI Intern** @ AWS Academy & Edunet Foundation *(Jun 2026)*
+* 🌱 **Green Skills and AI Intern** @ Shell & Edunet Foundation *(Oct - Nov 2025)*
+* 🌐 **AI & Cloud Intern** @ IBM Skillsbuild & Edunet Foundation *(Sep - Oct 2025)*
 * 🧠 **AI-ML Intern** @ Google & EduSkills Academy *(Jul - Sep 2025)*
 * 💻 **Web Development Intern** @ EduSkills Academy *(Jan - Mar 2025)*
 

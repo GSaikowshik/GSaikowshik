@@ -18,31 +18,31 @@
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5_%2F_CSS3-151515?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5/CSS3](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <br>
 
 ### ⚙️ Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-151515?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <br>
 
 ### 💾 Databases & Cloud Services
-![MongoDB](https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Supabase](https://img.shields.io/badge/Supabase-151515?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <br>
 
 ### 🧠 AI & Machine Learning
-![Generative AI](https://img.shields.io/badge/Generative_AI-151515?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-151515?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![LLMs](https://img.shields.io/badge/LLMs-151515?style=for-the-badge&logo=meta&logoColor=0668E1)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-151515?style=for-the-badge&logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF9900?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=meta&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
 
 ---
 

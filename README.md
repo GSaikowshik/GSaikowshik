@@ -36,29 +36,28 @@ Building intelligent web applications with AI, Python, FastAPI and React.
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
 </p>
-
-<br>
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,fastapi" alt="Frameworks" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" width="48" alt="Streamlit" align="top" style="margin-left: 4px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="48" width="48" alt="Streamlit" align="top" />
 </p>
-
-<br>
 
 ### 💾 Databases & Cloud Services
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase" height="48" alt="Supabase" />
 </p>
-
-<br>
 
 ### 🧠 AI & Machine Learning
 - Generative AI
-- RAG
 - LLMs
 - YOLOv8
 
@@ -111,15 +110,9 @@ Building intelligent web applications with AI, Python, FastAPI and React.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GSaikowshik&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSaikowshik&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GSaikowshik&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=GSaikowshik&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="195" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSaikowshik&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Top Languages" height="195" />
 </p>
 
 ---

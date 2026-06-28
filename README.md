@@ -4,36 +4,45 @@
 
 > Driven Computer Science student (B.Tech 2023-2027) operating at the intersection of web development and AI. I actively employ AI-augmented engineering practices—directing LLMs to accelerate development—turning innovative ideas into scalable, user-centric functional realities.
 
+<div align="center">
+  <a href="mailto:saikowshikgandikota@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/gandikotasaikowshik">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5_%2F_CSS3-151515?style=for-the-badge&logo=html5&logoColor=E34F26)
 
 <br>
 
 ### ⚙️ Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-151515?style=for-the-badge&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-151515?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 <br>
 
 ### 💾 Databases & Cloud Services
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Supabase](https://img.shields.io/badge/Supabase-151515?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 <br>
 
 ### 🧠 AI & Machine Learning
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-008080?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-151515?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-151515?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![LLMs](https://img.shields.io/badge/LLMs-151515?style=for-the-badge&logo=meta&logoColor=0668E1)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-151515?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 

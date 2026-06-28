@@ -1,4 +1,4 @@
-# Hi, I'm Gandikota Sai Kowshik 👋
+<h1 align="center">Hi, I'm Gandikota Sai Kowshik 👋</h1>
 
 <h3 align="center">Full-Stack AI Developer | Computer Science Student</h3>
 
